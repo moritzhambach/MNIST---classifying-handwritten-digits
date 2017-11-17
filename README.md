@@ -6,7 +6,7 @@
 #        - simple neural network with regularisation, flexible geometry and various activation functions    
 #        - uses mini batch-gradient descent 
 #        - fully vectorised and only twice as slow as the same Keras model (see benchmark in notebook)
-#        - used for MNIST written digits classification
+#        - used for MNIST written digits classification (96.5% accuracy)
 #
 #
 #
