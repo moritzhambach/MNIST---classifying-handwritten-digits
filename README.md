@@ -2,9 +2,11 @@
 #
 # here I will add some interesting machine learning projects soon!
 #
-# 1) 
-#
-#
+# 1) building a neural network from scratch:
+#        - simple neural network with regularisation, flexible geometry and various activation functions    
+#        - uses mini batch-gradient descent 
+#        - fully vectorised and only twice as slow as the same Keras model (see benchmark in notebook)
+#        - used for MNIST written digits classification
 #
 #
 #
