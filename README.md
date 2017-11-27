@@ -2,11 +2,10 @@
 #
 # here I will add some interesting machine learning projects soon!
 #
-# 1) building a neural network from scratch:
-#        - no Keras/tensorflow, just the numpy package
-#        - simple neural network with regularisation, flexible geometry and various activation functions    
-#        - uses mini batch-gradient descent 
-#        - fully vectorised and only twice as slow as the same Keras model (see benchmark in notebook)
+# 1) A neural network from scratch:
+#        - build a neural network with just the numpy package
+#        - uses mini batch-gradient descent with regularisation, flexible geometry and various activation functions     
+#        - fully vectorised and less than twice as slow as the same Keras model (see benchmark in notebook)
 #        - used for MNIST written digits classification (96.6% accuracy)
 #
 #
