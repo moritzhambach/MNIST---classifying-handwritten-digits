@@ -1,6 +1,6 @@
-## machine-learning
+## MNIST
 
- here I will add some interesting machine learning projects soon!
+ The MNIST dataset of handwritten digits is the one of the standard benchmarks of machine learning classification. This repo shows two approaches:
 
 ### 1) A neural network from scratch (98.3% accuracy on MNIST):
         - build a neural network with just the numpy package
