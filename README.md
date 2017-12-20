@@ -9,7 +9,7 @@
         - fully vectorised and less than twice as slow as the same Keras model (see benchmark in notebook)
         
 
-# 1) Convolutional Neural Network with Keras (99.68% accuracy on MNIST)
+# 2) Convolutional Neural Network with Keras (99.68% accuracy on MNIST)
         - VGG geometry (3x3 filters, 2x2 max pooling) with batch normalisation
         - uses Adam optimisation
         - increases batch size instead of reducing learning rate
